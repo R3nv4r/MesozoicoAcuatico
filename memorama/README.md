@@ -1,17 +1,24 @@
-# memorama
+# Memorama de Creauturas prehistoricas Acuaticas
 
-A new Flutter project.
+Este es un juego android educativo basandose en las creaturas que dominaron las aguas antes de nuestra era,
+como cualquiero juego de memorama la regla es conseguir el par de cada imagen en el menor numero de intentos.
+cada match entre imagenes te muestran la información sobre cada una de las creaturas presentadas.
 
-## Getting Started
+![Demo](ruta/a/tu/imagen_o_gif.gif)
 
-This project is a starting point for a Flutter application.
+## 🛠 Tecnologías Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+*   **Framework:** Flutter
+*   **Lenguajes:** Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ⚙️ Características Principales
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*   Juego de memorama con imagenes de creaturas acuaticas prehistoricas
+*   Describe datos sobre cada creatura, su tamaño promedio, era y años de existencia y breve descripcion.
+*   Muestra la cantidad de intentos por cada juego.
+
+## 💻 Instalación y Uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/R3nv4r/memorama.git](https://github.com/R3nv4r/memorama.git)
